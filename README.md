@@ -12,6 +12,8 @@ Fetch -> ETL -> Analytics -> ML.
 
 All deployed to AWS, except for ML (work in progress)
 
+Deployment: https://promptry.org/projects/mj-timeseries
+
 ## Analytics    
 
 ### Frequency Analysis.
