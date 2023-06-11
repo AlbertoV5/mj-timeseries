@@ -1,0 +1,14 @@
+__pycache__
+.DS_Store
+**/*.png
+**/venv
+.vscode/**
+.metals/**
+frontend/node_modules
+**/*.log
+**/node_modules
+**/*.zip
+**/*.csv
+multis/storage/*.json
+**/roles
+!.github/img/**

@@ -1,0 +1,57 @@
+[
+    {
+        "short_title":"Discord Bot Exploded",
+        "alert_id":110604406,
+        "type":"error"
+    },
+    {
+        "short_title":"Discord Bot Exploded",
+        "alert_id":110604406,
+        "type":"success"
+    },
+    {
+        "short_title":"Discord Bot Exploded",
+        "alert_id":110604406,
+        "type":"warning"
+    },
+    {
+        "short_title":"Discord Server Down",
+        "alert_id":118043694,
+        "type":"success"
+    },
+    {
+        "short_title":"Discord Server Down",
+        "alert_id":118043694,
+        "type":"warning"
+    },
+    {
+        "short_title":"There are elevated cluster errors",
+        "alert_id":80840907,
+        "type":"error"
+    },
+    {
+        "short_title":"There are elevated cluster errors",
+        "alert_id":80840907,
+        "type":"success"
+    },
+    {
+        "short_title":"There are elevated cluster errors",
+        "alert_id":80840907,
+        "type":"warning"
+    },
+    {
+        "short_title":"Web API 5xx error response is high",
+        "alert_id":115278610,
+        "type":"error"
+    },
+    {
+        "short_title":"Web API 5xx error response is high",
+        "alert_id":115278610,
+        "type":"success"
+    },
+    {
+        "short_title":"Web API 5xx error response is high",
+        "alert_id":115278610,
+        "type":"warning"
+    }
+]
