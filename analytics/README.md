@@ -1,6 +1,6 @@
 # Lambda for Analytics
 
-Parse data from RDS database and store in s3 bucket for data viz / ml.
+Parse data from RDS database and store in s3 bucket for data viz / ml once a day.
 
 ## TODO:
 

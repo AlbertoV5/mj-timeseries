@@ -1,3 +1,3 @@
 # Fetch
 
-Data collection querying an API using cronjobs.
+Data collection querying an API using cronjobs in AWS.

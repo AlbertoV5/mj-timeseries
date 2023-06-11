@@ -11,6 +11,6 @@ Parse DynamoDB event and store records in SQL database.
 
 1. Run update-ecr.sh
 
-## Connect
+## Connect for local dev
 
 https://github.com/BohdanPetryshyn/basti

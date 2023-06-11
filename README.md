@@ -1,8 +1,10 @@
 # MJ Timeseries
 
-Predict slow wait times in Midjourney using machine learning.
+Predict slow wait times in Midjourney using machine learning. 
 
 End-to-end time series prediction using cronjobs for data collection, ETL, machine learning for forecasting, and finally data visualization in JS.
+
+DISCLAIMER: This is an educational/portfolio project with no profit intent.
 
 ## Pipeline
 
